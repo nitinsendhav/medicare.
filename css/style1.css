@@ -332,13 +332,7 @@ body {
     display: flex;
     flex-wrap: wrap;
   }
-
-  .card {
-    width: 50%;
-  }
-  .col-lg-4 {
-    width: 35%;
-  }
+ 
 }
 
 @media (max-width:574px) {
